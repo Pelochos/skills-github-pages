@@ -6,7 +6,7 @@ title: My First Website
 
 <p>Here I'll be practicing using pages.</p>
 
-**What do I want to acheive?**
-I want to:-
+**What do I want to acheive?**<br>
+<p>I want to:-
 - [x] Add content to my page in the index.md file
-- [ ] Learn more about customising web pages
+- [ ] Learn more about customising web pages</p>
